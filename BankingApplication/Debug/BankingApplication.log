@@ -1,0 +1,5 @@
+﻿  BankingApplication.cpp
+  SBIBank.cpp
+D:\CppAssignments\BankingApplication\BankingApplication\SBIBank.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  BankingApplication.vcxproj -> D:\CppAssignments\BankingApplication\Debug\BankingApplication.exe

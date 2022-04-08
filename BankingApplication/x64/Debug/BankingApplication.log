@@ -1,0 +1,6 @@
+﻿  SBIBank.cpp
+D:\CppAssignments\BankingApplication\BankingApplication\SBIBank.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+SBIBank.obj : error LNK2001: unresolved external symbol "private: static class std::vector<class SBIBank,class std::allocator<class SBIBank> > SBIBankValidation::SBICustomers" (?SBICustomers@SBIBankValidation@@0V?$vector@VSBIBank@@V?$allocator@VSBIBank@@@std@@@std@@A)
+SBIBank.obj : error LNK2001: unresolved external symbol "private: static unsigned int SBIBankValidation::totalNumberOfAccountsCreated" (?totalNumberOfAccountsCreated@SBIBankValidation@@0IA)
+SBIBank.obj : error LNK2001: unresolved external symbol "private: static short SBIBankValidation::customerIndexPositionInRecords" (?customerIndexPositionInRecords@SBIBankValidation@@0FA)
+D:\CppAssignments\BankingApplication\x64\Debug\BankingApplication.exe : fatal error LNK1120: 3 unresolved externals
